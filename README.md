@@ -42,8 +42,8 @@
 ###
 
 <br clear="both">
-
+<div align="center">
 <img src="https://raw.githubusercontent.com/soib/soib/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake animation" />
-
+</div>
 ###
 Profile Readme Generator
